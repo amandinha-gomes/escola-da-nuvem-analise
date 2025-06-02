@@ -1,7 +1,7 @@
 ## Escola da Nuvem – Análise de Dados
 
 O repositório contém os arquivos e códigos utilizados na análise dos dados da Escola da Nuvem.
---
+
 ### Arquitetura de Repositórios da Organização
 
 ### 📁 dataset/
