@@ -23,3 +23,5 @@ O painel possui as seguintes seções, acessíveis pelo menu lateral:
 ### 📁 streamlit
 - index3_2.0.py (utilizado na apresentação)
 - README.md explicando a aplicação
+-  #### 📁 img
+    graficos gerados a partir da analise
